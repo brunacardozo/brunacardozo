@@ -1,5 +1,4 @@
-### 👋 Olá!! Sou a Bruna.
-Acompanhe aqui alguns projetos simples que realizo para aprender mais sobre algumas linguagens de programação.
+### Olá!! Sou a Bruna 👋 
 
 <div>
   <a href="https://github.com/brunacardozo">
